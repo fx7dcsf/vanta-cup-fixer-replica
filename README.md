@@ -3,6 +3,15 @@
 ## Overview
 
 Welcome to the Vanta Cup Fixer Replica project! 🎮🔧 This tool is a C++ based application designed to spoof certain system parameters, such as BIOS and Volume IDs, primarily used to bypass certain system checks. **This project is intended for educational purposes only**. Misuse of this software may violate terms of service or local laws.
+![image](https://github.com/user-attachments/assets/15d48132-80a4-4bee-9252-310e000a0c98)
+![image](https://github.com/user-attachments/assets/4dbd7c2a-ea48-4dfa-841b-34b2ca2b1a56)
+![image](https://github.com/user-attachments/assets/d5f9808d-cfee-4749-bf32-5592338443e6)
+![image](https://github.com/user-attachments/assets/750a9640-acb4-49d3-98a1-7075634761af)
+
+
+
+
+
 
 ## Features
 
