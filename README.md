@@ -56,7 +56,7 @@ Welcome to the Vanta Cup Fixer Replica project! 🎮🔧 This tool is a C++ base
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/vanta-cup-fixer-replica.git
+git clone https://github.com/type1shi/vanta-cup-fixer-replica.git
 cd vanta-cup-fixer-replica
 ```
 
