@@ -30,6 +30,7 @@ Welcome to the Vanta Cup Fixer Replica project! 🎮🔧 This tool is a C++ base
 2. **Spoofing Functions**:
    - `spoofAMIDEWIN` and `spoofAFUWIN` use command-line tools to alter system parameters.
    - `spoofVolumeID` changes volume IDs for different drives using `Volumeid64.exe`.
+     ## Sadly you have to add your own files 
 
 3. **Process Monitoring**:
    - The `MonitorProcesses` function continuously checks and terminates specified processes like Task Manager and Explorer.
