@@ -1,0 +1,3 @@
+APPLICATION HASH FROM THE SPOOFER; USE POWERSHELL FOR IT:
+
+Get-FileHash path (replace the path with the actual path, you can also drag and drop the exe into powershell)

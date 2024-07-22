@@ -1,0 +1,13 @@
+#include <windows.h>
+#include "resource-.h"
+
+IDD_CUSTOM_DIALOG DIALOGEX 0, 0, 200, 100
+STYLE DS_SETFONT | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Success"
+FONT 8, "MS Shell Dlg"
+BEGIN
+CONTROL         "Print", IDC_PRINT, "Button", BS_PUSHBUTTON | WS_TABSTOP, 10, 70, 50, 14
+CONTROL         "Agree", IDC_AGREE, "Button", BS_PUSHBUTTON | WS_TABSTOP, 70, 70, 50, 14
+CONTROL         "Decline", IDC_DECLINE, "Button", BS_PUSHBUTTON | WS_TABSTOP, 130, 70, 50, 14
+LTEXT           "Choose an option", IDC_STATIC, 10, 10, 180, 20
+END
